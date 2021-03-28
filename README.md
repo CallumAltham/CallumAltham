@@ -6,6 +6,7 @@
         - My website: https://callumaltham.tech <br />
         - My twitter: https://twitter.com/CAlthamDev <br />
         - My LinkedIn: https://www.linkedin.com/in/callumaltham/ <br />
+        - My Email: callumaltham1@gmail.com
 
 <!---
 CallumAltham/CallumAltham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

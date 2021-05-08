@@ -6,7 +6,7 @@
         - My website: https://callumaltham.tech <br />
         - My twitter: https://twitter.com/CAlthamDev <br />
         - My LinkedIn: https://www.linkedin.com/in/callumaltham/ <br />
-        - My Email(s): <br \>
+        - My Email(s): <br />
                 - Personal: callumaltham1@gmail.com
                 - Academic: 23946997@edgehill.ac.uk
 

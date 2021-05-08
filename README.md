@@ -7,7 +7,7 @@
         - My twitter: https://twitter.com/CAlthamDev <br />
         - My LinkedIn: https://www.linkedin.com/in/callumaltham/ <br />
         - My Email(s): <br />
-                - Personal: callumaltham1@gmail.com
+                - Personal: callumaltham1@gmail.com <br />
                 - Academic: 23946997@edgehill.ac.uk
 
 <!---

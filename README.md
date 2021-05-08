@@ -7,8 +7,8 @@
         - My twitter: https://twitter.com/CAlthamDev <br />
         - My LinkedIn: https://www.linkedin.com/in/callumaltham/ <br />
         - My Email(s): <br />
-                - Personal: callumaltham1@gmail.com <br />
-                - Academic: 23946997@edgehill.ac.uk
+        &nbsp;&nbsp;&nbsp;&nbsp;- Personal: callumaltham1@gmail.com <br />
+        &nbsp;&nbsp;&nbsp;&nbsp;- Academic: 23946997@edgehill.ac.uk
 
 <!---
 CallumAltham/CallumAltham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

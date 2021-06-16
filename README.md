@@ -10,6 +10,9 @@
         &nbsp;&nbsp;&nbsp;&nbsp;- Personal: callumaltham1@gmail.com <br />
         &nbsp;&nbsp;&nbsp;&nbsp;- Academic: 23946997@edgehill.ac.uk
 
+![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=CallumAltham&show_icons=true&theme=monokai)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CallumAltham&repo=Facial-Emotion-Recognition)](https://github.com/CallumAltham/Facial-Emotion-Recognition)
 <!---
 CallumAltham/CallumAltham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

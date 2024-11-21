@@ -7,7 +7,6 @@
         - My twitter: https://twitter.com/CAlthamDev <br />
         - My LinkedIn: https://www.linkedin.com/in/callumaltham/ <br />
         - My Email(s): <br />
-        &nbsp;&nbsp;&nbsp;&nbsp;- Personal: callumaltham1@gmail.com <br />
         &nbsp;&nbsp;&nbsp;&nbsp;- Academic: althamc@edgehill.ac.uk
 
 ![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=CallumAltham&show_icons=true&theme=monokai)
